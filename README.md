@@ -17,7 +17,9 @@ For our very first project of the computer engineering course we got to experien
 
 So at this point you're probably wondering what the project consisted of. Or not, either way I'm going to tell you:
 The assignment consisted of creating a simulation of an electric stove. The stove was controlled by an Arduino (for which we had to write code for in C) and had to include 8 pits with LED's (as the stoves); buttons for turning the complete stove off/on, activating the child-proof lock, and some for a self-decided way of controlling the stoves; 2 4-digit 7 segment displays, and 2 shift-registers. 
+
 The biggest challenge I think was for our group to get acquainted with the programming and figuring out how the electronics work and communicate. This was also a project in which we learned what Scrum (and Agile) is, and got to implement it in the planning of the project. 
+
 Also with this project I can proudly say that I was the one to come up with the group name: ArdWeKnow. I hope you realize it's a very genious (if I may so myself) play of words on Arduino. The name definitely made up for the lack of ArdWeKnowledge we had at the beginning of the project, and was a clear proof of our enthusiasm and determination in the first week. However, I really do think this project thought us a lot and gave us a good foundation of knowledge and a healthy amount of persistance, which I both find very important in a engineer. 
 
 
