@@ -15,7 +15,8 @@ For our very first project of the computer engineering course we got to experien
 - 'PLANNING POKER!!1!!1'
 - 'My computer crashed again, can you create the Fritzing diagrams on your laptop?'
 
-So at this point you're probably wondering what the project consisted of. Or not, either way I'm going to tell you:
+So at this point you're probably wondering what the project consisted of. Or not, but either way I'm going to tell you:
+
 The assignment consisted of creating a simulation of an electric stove. The stove was controlled by an Arduino (for which we had to write code for in C) and had to include 8 pits with LED's (as the stoves); buttons for turning the complete stove off/on, activating the child-proof lock, and some for a self-decided way of controlling the stoves; 2 4-digit 7 segment displays, and 2 shift-registers. 
 
 The biggest challenge I think was for our group to get acquainted with the programming and figuring out how the electronics work and communicate. This was also a project in which we learned what Scrum (and Agile) is, and got to implement it in the planning of the project. 
