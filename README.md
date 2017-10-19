@@ -21,6 +21,6 @@ The assignment consisted of creating a simulation of an electric stove. The stov
 
 The biggest challenge I think was for our group to get acquainted with the programming and figuring out how the electronics work and communicate. This was also a project in which we learned what Scrum (and Agile) is, and got to implement it in the planning of the project. 
 
-Also with this project I can proudly say that I was the one to come up with the group name: ArdWeKnow. I hope you realize it's a very genious (if I may say so myself) play of words on Arduino. The name definitely made up for the lack of ArdWeKnowledge we had at the beginning of the project, and was a clear proof of our enthusiasm and determination in the first week. However, I really do think this project taught us a lot and gave us a good foundation of knowledge and a healthy amount of persistance, which I both find very important in a engineer. 
+Also with this project I can proudly say that I was the one to come up with the group name: ArdWeKnow. I hope you realize it's a very genious (if I may say so myself) play of words on Arduino. The name definitely made up for the lack of ArdWeKnowledge we had at the beginning of the project, and was a clear proof of our enthusiasm and determination in the first week. However, I really do think this project taught us a lot and gave us a good foundation of knowledge and a healthy amount of persistance, which I both find very important in an engineer. 
 
 
